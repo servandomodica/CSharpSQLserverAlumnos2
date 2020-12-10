@@ -1,0 +1,30 @@
+C:\tp2\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe.config
+C:\tp2\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe
+C:\tp2\Proyecto23\Proyecto23\bin\Debug\Proyecto23.pdb
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csprojAssemblyReference.cache
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.Form1.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoCarreras.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.Properties.Resources.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.GenerateResource.cache
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.CoreCompileInputs.cache
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.exe
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.pdb
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoMaterias.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoAlumnos.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoInscripcionMaterias.resources
+C:\tp2\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoNotas.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\bin\Debug\Proyecto23.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoAlumnos.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoCarreras.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoInscripcionMaterias.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoMaterias.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.MantenimientoNotas.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto23\Proyecto23\obj\Debug\Proyecto23.pdb
